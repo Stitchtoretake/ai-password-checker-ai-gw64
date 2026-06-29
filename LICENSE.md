@@ -1,4 +1,4 @@
-# 
+# 新 AI Password Strength Checker 扩展。集成 数据可视化 和 自动决策，性能最大化。
 
 
 
